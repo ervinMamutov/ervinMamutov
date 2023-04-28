@@ -1,7 +1,7 @@
+# Greetings I'm **_Ervin_**
+
 > **Life** is about **learning** new things **every** **day** and
 > **solidifying** **old** ones
-
-# Greetings I'm Ervin
 
 ## Skills
 
