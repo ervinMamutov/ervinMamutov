@@ -7,7 +7,7 @@
 
 ### Skills
 
-⌨️ **Languages:** **_JavaScript, HTML, CSS_**
+⌨️ **Languages:** **_JavaScript, Node.js, React.js, HTML, CSS_**
 
 ### I like: 💻 ✍️ 📚 🏀🚶‍♂️
 
