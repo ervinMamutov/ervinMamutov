@@ -1,16 +1,18 @@
-## Hi there 👋
+Ervin Mamutov
 
-<!--
-**ervinMamutov/ervinMamutov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I used to run a business. Now I build software.
 
-Here are some ideas to get you started:
+Turns out the skills transfer — understanding what users need, prioritizing ruthlessly, shipping things that work. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+The difference is now I write the code myself.
+
+Stack: JavaScript, React, Node.js, Java/Spring Boot, PostgreSQL
+
+
+What I'm building:
+
+- [Library Management System](https://github.com/ervinMamutov/library-management-system) — REST API with JWT auth and role-based access (Spring Boot)
+- [Evolution Shop](https://evolution-shop.netlify.app/) — E-commerce frontend (React)
+- [Weeb](https://github.com/ervinMamutov/weeb) — Landing page
+
+[LinkedIn](https://www.linkedin.com/in/ervin-mamutov/)
