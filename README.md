@@ -1,18 +1,8 @@
 Ervin Mamutov
 
-I used to run a business. Now I build software.
+I write software and try to understand the layer below the one I'm working in.
 
-Turns out the skills transfer — understanding what users need, prioritizing ruthlessly, shipping things that work. 
+That means hand-rolled SQL, no ORMs, and building things from scratch when the point is learning how they work.
 
-The difference is now I write the code myself.
+Stack: JavaScript · React · Node.js · PostgreSQL
 
-Stack: JavaScript, React, Node.js, Java/Spring Boot, PostgreSQL
-
-
-What I'm building:
-
-- [Library Management System](https://github.com/ervinMamutov/library-management-system) — REST API with JWT auth and role-based access (Spring Boot)
-- [Evolution Shop](https://evolution-shop.netlify.app/) — E-commerce frontend (React)
-- [Weeb](https://github.com/ervinMamutov/weeb) — Landing page
-
-[LinkedIn](https://www.linkedin.com/in/ervin-mamutov/)
